@@ -1,0 +1,4 @@
+[submodule "fat-inspector"]
+	path = fat-inspector
+	url = https://github.com/AnthropocentricAI/fat-inspector
+	branch = build
